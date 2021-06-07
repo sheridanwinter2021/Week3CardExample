@@ -8,7 +8,7 @@ package week3example;
 /**
  *
  * @author sivagamasrinivasan
-    this is branch*/
+    this is branch example*/
 public class Week3Example {
 
     /**
